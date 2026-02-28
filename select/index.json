@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ほんとのところ",
+  "base_artist": "Tokyo Incidents",
+  "createdAt": "2026-02-28T12:39:15.822087Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Honto no Tokoro [ほんとのところ]",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/01_Honto_no_Tokoro_[ほんとのところ]_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ほんとのところ",
+      "artist": "Tokyo Jihen",
+      "has_synced": true,
+      "path": "select/02_ほんとのところ_Tokyo_Jihen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ほんとのところ",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_ほんとのところ_東京事変.txt"
+    }
+  ]
+}
